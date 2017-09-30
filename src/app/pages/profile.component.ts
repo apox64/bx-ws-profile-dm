@@ -11,21 +11,15 @@ export class ProfileComponent {
   /*adds education code-by-color #140956*/
   schools = [
     {
-      name: 'Generic School Name',
-      major: 'generic middle school',
+      name: 'Lannister Swordfighting School',
+      major: 'Swordfighting',
       start: new Date('2003-09-01'),
       end: new Date('2009-07-01'),
     },
     {
-      name: 'Generic High School Name',
-      major: 'generic major title',
+      name: 'Battle Academy',
+      major: 'Battlemaster 101',
       start: new Date('2009-09-01'),
-      end: new Date('2012-06-01'),
-    },
-    {
-      name: 'Generic Univeristy',
-      major: 'generic major title',
-      start: new Date('2012-09-01'),
       end: new Date(),
     }
   ];
@@ -46,8 +40,8 @@ export class ProfileComponent {
       end: new Date('2016-02-08'),
     },
     {
-      name: 'IBM Deutschland GmbH',
-      role: 'Bluemix Software Developer',
+      name: 'Battle against the Starks',
+      role: 'Army Leader',
       start: new Date('2016-02-08'),
       end: new Date(),
     }
@@ -69,7 +63,7 @@ export class ProfileComponent {
       score: 42,
     },
     {
-      name: 'Bluemix',
+      name: 'Swordfighting',
       score: 4,
     },
     {
