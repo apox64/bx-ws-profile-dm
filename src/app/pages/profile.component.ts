@@ -52,19 +52,19 @@ export class ProfileComponent {
   skills = [
     {
       name: 'Problem Solving',
-      score: 99,
+      score: 9,
     },
     {
       name: 'Luck',
-      score: 7,
+      score: 3,
     },
     {
       name: 'Wisdom',
-      score: 42,
+      score: 6,
     },
     {
       name: 'Swordfighting',
-      score: 4,
+      score: 10,
     },
     {
       name: 'Teamwork',
@@ -72,11 +72,11 @@ export class ProfileComponent {
     },
     {
       name: 'Power',
-      score: 9000+1,
+      score: 9,
     },
     {
       name: 'Jokes',
-      score: -1,
+      score: 2,
     },
   ]
 
